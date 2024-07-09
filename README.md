@@ -132,3 +132,22 @@ module.exports = {
     swaggerUi,
     swaggerDocs,
 };
+gpt-model-api
+├── client
+│   ├── public
+│   └── src
+│       ├── components
+│       ├── pages
+│       ├── App.js
+│       └── index.js
+├── server
+│   ├── config
+│   ├── controllers
+│   ├── middleware
+│   ├── models
+│   ├── routes
+│   ├── utils
+│   ├── .env
+│   ├── index.js
+│   └── swagger.js
+└── README.md
